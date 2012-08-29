@@ -1,0 +1,14 @@
+C:\Documents and Settings\chavit\Desktop\Betterment\Data\bin\Debug\Data.dll
+C:\Documents and Settings\chavit\Desktop\Betterment\Data\bin\Debug\Data.pdb
+C:\Documents and Settings\chavit\Desktop\Betterment\Data\bin\Debug\Entities.dll
+C:\Documents and Settings\chavit\Desktop\Betterment\Data\bin\Debug\Entities.pdb
+C:\Documents and Settings\chavit\Desktop\Betterment\Data\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\chavit\Desktop\Betterment\Data\obj\Debug\Data.dll
+C:\Documents and Settings\chavit\Desktop\Betterment\Data\obj\Debug\Data.pdb
+C:\Documents and Settings\chavit\My Documents\GitHub\betterme\Betterment\Data\bin\Debug\Data.dll
+C:\Documents and Settings\chavit\My Documents\GitHub\betterme\Betterment\Data\bin\Debug\Data.pdb
+C:\Documents and Settings\chavit\My Documents\GitHub\betterme\Betterment\Data\bin\Debug\Entities.dll
+C:\Documents and Settings\chavit\My Documents\GitHub\betterme\Betterment\Data\bin\Debug\Entities.pdb
+C:\Documents and Settings\chavit\My Documents\GitHub\betterme\Betterment\Data\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\chavit\My Documents\GitHub\betterme\Betterment\Data\obj\Debug\Data.dll
+C:\Documents and Settings\chavit\My Documents\GitHub\betterme\Betterment\Data\obj\Debug\Data.pdb

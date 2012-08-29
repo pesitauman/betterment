@@ -1,0 +1,28 @@
+C:\Documents and Settings\chavit\Desktop\Betterment\Betterment.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\chavit\Desktop\Betterment\Betterment.Tests\bin\Debug\Betterment.Tests.dll.config
+C:\Documents and Settings\chavit\Desktop\Betterment\Betterment.Tests\bin\Debug\Betterment.Tests.dll
+C:\Documents and Settings\chavit\Desktop\Betterment\Betterment.Tests\bin\Debug\Betterment.Tests.pdb
+C:\Documents and Settings\chavit\Desktop\Betterment\Betterment.Tests\bin\Debug\Betterment.dll
+C:\Documents and Settings\chavit\Desktop\Betterment\Betterment.Tests\bin\Debug\Repository.dll
+C:\Documents and Settings\chavit\Desktop\Betterment\Betterment.Tests\bin\Debug\Entities.dll
+C:\Documents and Settings\chavit\Desktop\Betterment\Betterment.Tests\bin\Debug\Data.dll
+C:\Documents and Settings\chavit\Desktop\Betterment\Betterment.Tests\bin\Debug\Betterment.pdb
+C:\Documents and Settings\chavit\Desktop\Betterment\Betterment.Tests\bin\Debug\Repository.pdb
+C:\Documents and Settings\chavit\Desktop\Betterment\Betterment.Tests\bin\Debug\Entities.pdb
+C:\Documents and Settings\chavit\Desktop\Betterment\Betterment.Tests\bin\Debug\Data.pdb
+C:\Documents and Settings\chavit\Desktop\Betterment\Betterment.Tests\obj\Debug\Betterment.Tests.dll
+C:\Documents and Settings\chavit\Desktop\Betterment\Betterment.Tests\obj\Debug\Betterment.Tests.pdb
+C:\Documents and Settings\chavit\My Documents\GitHub\betterme\Betterment\Betterment.Tests\bin\Debug\Betterment.Tests.dll.config
+C:\Documents and Settings\chavit\My Documents\GitHub\betterme\Betterment\Betterment.Tests\bin\Debug\Betterment.Tests.dll
+C:\Documents and Settings\chavit\My Documents\GitHub\betterme\Betterment\Betterment.Tests\bin\Debug\Betterment.Tests.pdb
+C:\Documents and Settings\chavit\My Documents\GitHub\betterme\Betterment\Betterment.Tests\bin\Debug\Betterment.dll
+C:\Documents and Settings\chavit\My Documents\GitHub\betterme\Betterment\Betterment.Tests\bin\Debug\Repository.dll
+C:\Documents and Settings\chavit\My Documents\GitHub\betterme\Betterment\Betterment.Tests\bin\Debug\Entities.dll
+C:\Documents and Settings\chavit\My Documents\GitHub\betterme\Betterment\Betterment.Tests\bin\Debug\Data.dll
+C:\Documents and Settings\chavit\My Documents\GitHub\betterme\Betterment\Betterment.Tests\bin\Debug\Betterment.pdb
+C:\Documents and Settings\chavit\My Documents\GitHub\betterme\Betterment\Betterment.Tests\bin\Debug\Repository.pdb
+C:\Documents and Settings\chavit\My Documents\GitHub\betterme\Betterment\Betterment.Tests\bin\Debug\Entities.pdb
+C:\Documents and Settings\chavit\My Documents\GitHub\betterme\Betterment\Betterment.Tests\bin\Debug\Data.pdb
+C:\Documents and Settings\chavit\My Documents\GitHub\betterme\Betterment\Betterment.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\chavit\My Documents\GitHub\betterme\Betterment\Betterment.Tests\obj\Debug\Betterment.Tests.dll
+C:\Documents and Settings\chavit\My Documents\GitHub\betterme\Betterment\Betterment.Tests\obj\Debug\Betterment.Tests.pdb

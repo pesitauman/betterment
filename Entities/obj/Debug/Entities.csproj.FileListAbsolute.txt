@@ -1,0 +1,10 @@
+C:\Documents and Settings\chavit\Desktop\Betterment\Entities\bin\Debug\Entities.dll
+C:\Documents and Settings\chavit\Desktop\Betterment\Entities\bin\Debug\Entities.pdb
+C:\Documents and Settings\chavit\Desktop\Betterment\Entities\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\chavit\Desktop\Betterment\Entities\obj\Debug\Entities.dll
+C:\Documents and Settings\chavit\Desktop\Betterment\Entities\obj\Debug\Entities.pdb
+C:\Documents and Settings\chavit\My Documents\GitHub\betterme\Betterment\Entities\bin\Debug\Entities.dll
+C:\Documents and Settings\chavit\My Documents\GitHub\betterme\Betterment\Entities\bin\Debug\Entities.pdb
+C:\Documents and Settings\chavit\My Documents\GitHub\betterme\Betterment\Entities\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\chavit\My Documents\GitHub\betterme\Betterment\Entities\obj\Debug\Entities.dll
+C:\Documents and Settings\chavit\My Documents\GitHub\betterme\Betterment\Entities\obj\Debug\Entities.pdb

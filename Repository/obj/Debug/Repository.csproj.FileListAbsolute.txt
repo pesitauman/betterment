@@ -1,0 +1,18 @@
+C:\Documents and Settings\chavit\Desktop\Betterment\Repository\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\chavit\Desktop\Betterment\Repository\bin\Debug\Repository.dll
+C:\Documents and Settings\chavit\Desktop\Betterment\Repository\bin\Debug\Repository.pdb
+C:\Documents and Settings\chavit\Desktop\Betterment\Repository\bin\Debug\Data.dll
+C:\Documents and Settings\chavit\Desktop\Betterment\Repository\bin\Debug\Entities.dll
+C:\Documents and Settings\chavit\Desktop\Betterment\Repository\bin\Debug\Data.pdb
+C:\Documents and Settings\chavit\Desktop\Betterment\Repository\bin\Debug\Entities.pdb
+C:\Documents and Settings\chavit\Desktop\Betterment\Repository\obj\Debug\Repository.dll
+C:\Documents and Settings\chavit\Desktop\Betterment\Repository\obj\Debug\Repository.pdb
+C:\Documents and Settings\chavit\My Documents\GitHub\betterme\Betterment\Repository\bin\Debug\Repository.dll
+C:\Documents and Settings\chavit\My Documents\GitHub\betterme\Betterment\Repository\bin\Debug\Repository.pdb
+C:\Documents and Settings\chavit\My Documents\GitHub\betterme\Betterment\Repository\bin\Debug\Data.dll
+C:\Documents and Settings\chavit\My Documents\GitHub\betterme\Betterment\Repository\bin\Debug\Entities.dll
+C:\Documents and Settings\chavit\My Documents\GitHub\betterme\Betterment\Repository\bin\Debug\Data.pdb
+C:\Documents and Settings\chavit\My Documents\GitHub\betterme\Betterment\Repository\bin\Debug\Entities.pdb
+C:\Documents and Settings\chavit\My Documents\GitHub\betterme\Betterment\Repository\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\chavit\My Documents\GitHub\betterme\Betterment\Repository\obj\Debug\Repository.dll
+C:\Documents and Settings\chavit\My Documents\GitHub\betterme\Betterment\Repository\obj\Debug\Repository.pdb
