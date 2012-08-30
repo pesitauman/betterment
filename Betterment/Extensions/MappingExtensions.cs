@@ -5,6 +5,7 @@ using System.Web;
 using Entities;
 using Betterment.Models;
 using AutoMapper;
+using Betterment.Models.Users;
 
 namespace Betterment
 {
@@ -13,6 +14,9 @@ namespace Betterment
         public static void Mapping()
         {
             #region Domain and users
+            Mapper.CreateMap(typeof(UserProp), typeof(UserPropViewModel));
+            Mapper.CreateMap(typeof(UserPropViewModel), typeof(UserProp));
+
             Mapper.CreateMap(typeof(Domain), typeof(DomainViewModel));
             Mapper.CreateMap(typeof(DomainViewModel), typeof(Domain));
 

@@ -5,6 +5,7 @@ using System.Web;
 using Entities;
 using Betterment.Models;
 using AutoMapper;
+using Betterment.Models.Users;
 
 namespace Betterment.Extensions
 {
@@ -20,6 +21,18 @@ namespace Betterment.Extensions
         public static DomainViewModel ToModel(this Domain entity)
         {
             return Mapper.Map<Domain, DomainViewModel>(entity);
+        }
+
+
+
+        public static UserProp ToEntity(this UserPropViewModel model)
+        {
+            return Mapper.Map<UserPropViewModel, UserProp>(model);
+        }
+
+        public static UserPropViewModel ToModel(this UserProp entity)
+        {
+            return Mapper.Map<UserProp, UserPropViewModel>(entity);
         }
 
 

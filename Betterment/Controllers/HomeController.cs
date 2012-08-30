@@ -10,8 +10,11 @@ namespace Betterment.Controllers
 {
     public class HomeController : Controller
     {
+        public readonly DomainRepository domainsRepository = new DomainRepository();
+
         public ActionResult Index()
         {
+             var MyDomains = domainsRepository.Table.ToList();
             return RedirectToAction("LogOn", "Account");
         }
 

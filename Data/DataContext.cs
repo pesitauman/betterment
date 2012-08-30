@@ -19,6 +19,7 @@ namespace Data
         public DbSet<DomainProp> DomainProps { get; set; }
         public DbSet<DomainPropDft> DomainPropDfts { get; set; }
         public DbSet<DomainUserProp> DomainUserProps { get; set; }
+        public DbSet<UserProp> UserProps { get; set; }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {

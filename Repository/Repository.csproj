@@ -47,12 +47,13 @@
   <ItemGroup>
     <Compile Include="DomainPropDftRepository.cs" />
     <Compile Include="DomainPropRepository.cs" />
-    <Compile Include="DomainsRepository.cs" />
+    <Compile Include="DomainRepository.cs" />
     <Compile Include="DomainUserPropRepository.cs" />
     <Compile Include="DomainUsersRepository.cs" />
     <Compile Include="IRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repository.cs" />
+    <Compile Include="UserPropRepository.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Data\Data.csproj">

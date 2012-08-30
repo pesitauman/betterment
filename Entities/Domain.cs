@@ -14,5 +14,8 @@ namespace Entities
         public string DomainID { get; set; }
         [MaxLength(30)]
         public string DomainName { get; set; }
+        public byte[] Icon { get; set; }
+        public string color { get; set; }        
+
     }
 }
