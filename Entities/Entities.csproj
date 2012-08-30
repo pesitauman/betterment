@@ -51,8 +51,8 @@
     <Compile Include="DomainPropDft.cs" />
     <Compile Include="DomainUserProp.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Domains.cs" />
-    <Compile Include="DomainUsers.cs" />
+    <Compile Include="Domain.cs" />
+    <Compile Include="DomainUser.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

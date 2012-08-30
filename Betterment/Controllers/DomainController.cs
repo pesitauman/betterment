@@ -15,7 +15,7 @@ namespace Betterment.Controllers
     {
         #region fields
 
-        public readonly DomainsRepository domainsRepository = new DomainsRepository();
+        public readonly DomainRepository domainsRepository = new DomainRepository();
 
         #endregion
 

@@ -12,14 +12,14 @@ namespace Betterment.Extensions
     {
         #region Domain and users
 
-        public static Domains ToEntity(this DomainViewModel model)
+        public static Domain ToEntity(this DomainViewModel model)
         {
-            return Mapper.Map<DomainViewModel, Domains>(model);
+            return Mapper.Map<DomainViewModel, Domain>(model);
         }
 
-        public static DomainViewModel ToModel(this Domains entity)
+        public static DomainViewModel ToModel(this Domain entity)
         {
-            return Mapper.Map<Domains, DomainViewModel>(entity);
+            return Mapper.Map<Domain, DomainViewModel>(entity);
         }
 
 
@@ -56,25 +56,25 @@ namespace Betterment.Extensions
         }
 
 
-        public static DomainUsers ToEntity(this DomainUsersViewModel model)
+        public static DomainUser ToEntity(this DomainUsersViewModel model)
         {
-            return Mapper.Map<DomainUsersViewModel, DomainUsers>(model);
+            return Mapper.Map<DomainUsersViewModel, DomainUser>(model);
         }
 
-        public static DomainUsersViewModel ToModel(this DomainUsers entity)
+        public static DomainUsersViewModel ToModel(this DomainUser entity)
         {
-            return Mapper.Map<DomainUsers, DomainUsersViewModel>(entity);
+            return Mapper.Map<DomainUser, DomainUsersViewModel>(entity);
         }
 
         //collections
-        public static IList<Domains> ToEntity(this IList<DomainViewModel> model)
+        public static IList<Domain> ToEntity(this IList<DomainViewModel> model)
         {
-            return Mapper.Map<IList<DomainViewModel>, IList<Domains>>(model);
+            return Mapper.Map<IList<DomainViewModel>, IList<Domain>>(model);
         }
 
-        public static IList<DomainViewModel> ToModel(this IList<Domains> entity)
+        public static IList<DomainViewModel> ToModel(this IList<Domain> entity)
         {
-            return Mapper.Map<IList<Domains>, IList<DomainViewModel>>(entity);
+            return Mapper.Map<IList<Domain>, IList<DomainViewModel>>(entity);
         }
         #endregion
     }

@@ -11,7 +11,7 @@ namespace Entities
     {
         [Key]
         public int Id { get; set; }
-        public DomainUsers DomainUser { get; set; }
+        public DomainUser DomainUser { get; set; }
         [MaxLength(10)]
         public string PropName { get; set; }
         public string PeopVal { get; set; }

@@ -9,7 +9,7 @@ namespace Betterment.Models
     public class DomainUserPropViewModel
     {
         public int Id { get; set; }
-        public DomainUsers DomainUserID { get; set; }
+        public DomainUser DomainUserID { get; set; }
         public string PropName { get; set; }
         public string PeopVal { get; set; }
         public bool PropActive { get; set; }	

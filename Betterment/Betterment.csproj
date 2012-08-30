@@ -75,12 +75,12 @@
     </Compile>
     <Compile Include="Extensions\MappingExtensions.cs" />
     <Compile Include="Models\AccountModels.cs" />
-    <Compile Include="Models\Domain\DomainPropDftViewModel.cs" />
-    <Compile Include="Models\Domain\DomainPropViewModel.cs" />
-    <Compile Include="Models\Domain\DomainUserPropViewModel.cs" />
-    <Compile Include="Models\Domain\DomainUsersViewModel.cs" />
-    <Compile Include="Models\Domain\DomainViewModel.cs" />
-    <Compile Include="Models\Domain\NavigationViewModel.cs" />
+    <Compile Include="Models\Domains\DomainPropDftViewModel.cs" />
+    <Compile Include="Models\Domains\DomainPropViewModel.cs" />
+    <Compile Include="Models\Domains\DomainUserPropViewModel.cs" />
+    <Compile Include="Models\Domains\DomainUsersViewModel.cs" />
+    <Compile Include="Models\Domains\DomainViewModel.cs" />
+    <Compile Include="Models\Domains\NavigationViewModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

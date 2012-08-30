@@ -14,9 +14,9 @@ namespace Data
         {
            
         }
-        public DbSet<Domains> Domains { get; set; }
-        public DbSet<DomainUsers> DomainUsers { get; set; }
-        public DbSet<DomainProp> DomainProp { get; set; }
+        public DbSet<Domain> Domains { get; set; }
+        public DbSet<DomainUser> DomainUsers { get; set; }
+        public DbSet<DomainProp> DomainProps { get; set; }
         public DbSet<DomainPropDft> DomainPropDfts { get; set; }
         public DbSet<DomainUserProp> DomainUserProps { get; set; }
 

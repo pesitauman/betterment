@@ -7,7 +7,7 @@ using System.ComponentModel.DataAnnotations;
 namespace Entities
 {
     [Table("T_DOMAINS")]
-   public class Domains:BaseEntity 
+   public class Domain:BaseEntity 
     {
         [Key]
         [MaxLength(10)]

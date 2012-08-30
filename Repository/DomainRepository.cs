@@ -8,7 +8,7 @@ using Entities;
 namespace Repository
 {
    
-    public class DomainsRepository:Repository<Domains>
+    public class DomainRepository:Repository<Domain>
     {
         #region fields
 
@@ -16,9 +16,9 @@ namespace Repository
 
         #endregion
 
-        public virtual IList<Domains> GetDomainsByUserId(string UserId)
+        public virtual IList<Domain> GetDomainsByUserId(string UserId)
         {
-           var x = new List<DomainUsers>();
+           var x = new List<DomainUser>();
            var myDomains=from domain in this.Table
                          join domainUser in x
                          on domain.DomainID equals domainUser.Domain.DomainID

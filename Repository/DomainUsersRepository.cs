@@ -6,7 +6,7 @@ using Entities;
 
 namespace Repository
 {
-    public class DomainUsersRepository : Repository<DomainUsers>
+    public class DomainUsersRepository : Repository<DomainUser>
     {
     }
 }

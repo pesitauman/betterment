@@ -11,7 +11,7 @@ namespace Entities
     {
         [Key]
       public int Id { get; set; }
-      public Domains Domain { get; set; } 
+      public Domain Domain { get; set; } 
  		[MaxLength(10)]
       public string PropName { get; set; }  
 		[MaxLength(10)]

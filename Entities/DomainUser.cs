@@ -7,12 +7,12 @@ using System.ComponentModel.DataAnnotations;
 namespace Entities
 {
      [Table("T_DOMAIN_USERS")]
-   public class DomainUsers:BaseEntity
+   public class DomainUser:BaseEntity
     {
          [Key]
          public int Id { get; set; }
        public string UserID { get; set; }
-       public Domains Domain { get; set; }
+       public Domain Domain { get; set; }
        public bool Active { get; set; }
        public string UN { get; set; }
        public string PASS { get; set; }
