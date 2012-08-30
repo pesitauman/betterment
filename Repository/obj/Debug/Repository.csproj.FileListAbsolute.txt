@@ -16,3 +16,12 @@ C:\Documents and Settings\chavit\My Documents\GitHub\betterme\Betterment\Reposit
 C:\Documents and Settings\chavit\My Documents\GitHub\betterme\Betterment\Repository\obj\Debug\ResolveAssemblyReference.cache
 C:\Documents and Settings\chavit\My Documents\GitHub\betterme\Betterment\Repository\obj\Debug\Repository.dll
 C:\Documents and Settings\chavit\My Documents\GitHub\betterme\Betterment\Repository\obj\Debug\Repository.pdb
+C:\Documents and Settings\chavit\My Documents\GitHub\betterment\Repository\bin\Debug\Repository.dll
+C:\Documents and Settings\chavit\My Documents\GitHub\betterment\Repository\bin\Debug\Repository.pdb
+C:\Documents and Settings\chavit\My Documents\GitHub\betterment\Repository\bin\Debug\Data.dll
+C:\Documents and Settings\chavit\My Documents\GitHub\betterment\Repository\bin\Debug\Entities.dll
+C:\Documents and Settings\chavit\My Documents\GitHub\betterment\Repository\bin\Debug\Data.pdb
+C:\Documents and Settings\chavit\My Documents\GitHub\betterment\Repository\bin\Debug\Entities.pdb
+C:\Documents and Settings\chavit\My Documents\GitHub\betterment\Repository\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\chavit\My Documents\GitHub\betterment\Repository\obj\Debug\Repository.dll
+C:\Documents and Settings\chavit\My Documents\GitHub\betterment\Repository\obj\Debug\Repository.pdb

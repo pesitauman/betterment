@@ -13,3 +13,17 @@ C:\Documents and Settings\chavit\Desktop\Betterment\Betterment\obj\Debug\Betterm
 C:\Documents and Settings\chavit\Desktop\Betterment\Betterment\obj\Debug\Betterment.pdb
 C:\Documents and Settings\chavit\My Documents\GitHub\betterme\Betterment\Betterment\obj\Debug\ResolveAssemblyReference.cache
 C:\Documents and Settings\chavit\My Documents\GitHub\betterme\Betterment\Betterment\obj\Debug\Betterment.dll
+C:\Documents and Settings\chavit\My Documents\GitHub\betterment\Betterment\bin\Betterment.dll
+C:\Documents and Settings\chavit\My Documents\GitHub\betterment\Betterment\bin\Betterment.pdb
+C:\Documents and Settings\chavit\My Documents\GitHub\betterment\Betterment\bin\AutoMapper.dll
+C:\Documents and Settings\chavit\My Documents\GitHub\betterment\Betterment\bin\Entities.dll
+C:\Documents and Settings\chavit\My Documents\GitHub\betterment\Betterment\bin\EntityFramework.dll
+C:\Documents and Settings\chavit\My Documents\GitHub\betterment\Betterment\bin\Repository.dll
+C:\Documents and Settings\chavit\My Documents\GitHub\betterment\Betterment\bin\Data.dll
+C:\Documents and Settings\chavit\My Documents\GitHub\betterment\Betterment\bin\Entities.pdb
+C:\Documents and Settings\chavit\My Documents\GitHub\betterment\Betterment\bin\Repository.pdb
+C:\Documents and Settings\chavit\My Documents\GitHub\betterment\Betterment\bin\EntityFramework.xml
+C:\Documents and Settings\chavit\My Documents\GitHub\betterment\Betterment\bin\Data.pdb
+C:\Documents and Settings\chavit\My Documents\GitHub\betterment\Betterment\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\chavit\My Documents\GitHub\betterment\Betterment\obj\Debug\Betterment.dll
+C:\Documents and Settings\chavit\My Documents\GitHub\betterment\Betterment\obj\Debug\Betterment.pdb

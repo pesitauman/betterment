@@ -15,6 +15,10 @@ namespace Repository
         {
             dataContext = new DataContext();
         }
+        public List<T> All()
+        {
+            return dataContext.Set<T>().ToList();
+        }
 
         public T GetById(object id)
         {
@@ -46,6 +50,8 @@ namespace Repository
                 return dataContext.Set<T>();
             }
         }
+
+       
 
 
     }

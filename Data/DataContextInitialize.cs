@@ -6,7 +6,7 @@ using System.Data.Entity;
 
 namespace Data
 {
-   public class DataContextInitialize :DropCreateDatabaseIfModelChanges<DataContext>
+    public class DataContextInitialize :DropCreateDatabaseIfModelChanges<DataContext>
     {
 
     }

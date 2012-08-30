@@ -14,7 +14,7 @@ namespace Betterment.Controllers
 
         //
         // GET: /Account/LogOn
-
+        [HttpGet]
         public ActionResult LogOn()
         {
             return View();
@@ -38,7 +38,7 @@ namespace Betterment.Controllers
                     }
                     else
                     {
-                        return RedirectToAction("Index", "Home");
+                        return RedirectToAction("NavigationForm", "Domain");
                     }
                 }
                 else

@@ -1,0 +1,20 @@
+﻿@model Betterment.Models.Domain.NavigationViewModel
+@{
+    ViewBag.Title = "NavigationForm";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div >
+    <table >
+        <tbody>
+            @foreach (var item in Model.MyDomains)
+            {    
+            <tr>
+                <td>@item.DomainID</td>
+                <td>@item.DomainName</td>
+            </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+

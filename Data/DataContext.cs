@@ -10,7 +10,7 @@ namespace Data
    public class DataContext : DbContext
     {
         public DataContext()
-            : base("name=ApplicationServices")  
+           : base("name=ApplicationServices")  
         {
            
         }
@@ -19,5 +19,12 @@ namespace Data
         public DbSet<DomainProp> DomainProp { get; set; }
         public DbSet<DomainPropDft> DomainPropDfts { get; set; }
         public DbSet<DomainUserProp> DomainUserProps { get; set; }
+
+        protected override void OnModelCreating(DbModelBuilder modelBuilder)
+        {
+            //modelBuilder.Ignore<DomainUserProp>();
+        }
+ 
+
     }
 }

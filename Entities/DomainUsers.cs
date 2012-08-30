@@ -12,7 +12,7 @@ namespace Entities
          [Key]
          public int Id { get; set; }
        public string UserID { get; set; }
-       public Domains DomainID { get; set; }
+       public Domains Domain { get; set; }
        public bool Active { get; set; }
        public string UN { get; set; }
        public string PASS { get; set; }
