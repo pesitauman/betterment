@@ -18,14 +18,8 @@ namespace Repository
 
         public virtual IList<Domain> GetDomainsByUserId(string UserId)
         {
-           var x = new List<DomainUser>();
-           var myDomains=from domain in this.Table
-                         join domainUser in x
-                         on domain.DomainID equals domainUser.Domain.DomainID
-                         where domainUser.UserID==UserId
-                         orderby domain.DomainName
-                         select domain;
-           return myDomains.ToList();
+            var myDomains = domainUserRepository.Table.ToList().Where(x => x.UserID == UserId).Select(x => x.Domain).ToList();
+            return myDomains.ToList();
         }
     }
 }

@@ -14,7 +14,7 @@ namespace Betterment.Controllers
 
         public ActionResult Index()
         {
-             var MyDomains = domainsRepository.Table.ToList();
+            var MyDomains = domainsRepository.Table.ToList();
             return RedirectToAction("LogOn", "Account");
         }
 

@@ -10,10 +10,11 @@ namespace Repository
 {
     public abstract class Repository<T> : IRepository<T> where T : BaseEntity
     {
-        public readonly DataContext dataContext;
+        public DataContext dataContext;
         public Repository()
         {
-            dataContext = new DataContext();
+            if (dataContext==null)
+                 dataContext = new DataContext();
         }
         public List<T> All()
         {
